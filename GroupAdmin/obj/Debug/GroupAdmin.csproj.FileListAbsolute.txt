@@ -1,0 +1,58 @@
+C:\Users\А\AppData\Local\Temporary Projects\GroupAdmin\bin\Debug\GroupAdmin.exe.config
+C:\Users\А\AppData\Local\Temporary Projects\GroupAdmin\obj\Debug\GroupAdmin.csprojResolveAssemblyReference.cache
+C:\Users\А\AppData\Local\Temporary Projects\GroupAdmin\obj\Debug\GroupAdmin.FormLogin.resources
+C:\Users\А\AppData\Local\Temporary Projects\GroupAdmin\obj\Debug\GroupAdmin.FormMain.resources
+C:\Users\А\AppData\Local\Temporary Projects\GroupAdmin\obj\Debug\GroupAdmin.Properties.Resources.resources
+C:\Users\А\AppData\Local\Temporary Projects\GroupAdmin\obj\Debug\GroupAdmin.csproj.GenerateResource.Cache
+C:\Users\А\AppData\Local\Temporary Projects\GroupAdmin\bin\Debug\GroupAdmin.exe
+C:\Users\А\AppData\Local\Temporary Projects\GroupAdmin\bin\Debug\GroupAdmin.pdb
+C:\Users\А\AppData\Local\Temporary Projects\GroupAdmin\obj\Debug\GroupAdmin.exe
+C:\Users\А\AppData\Local\Temporary Projects\GroupAdmin\obj\Debug\GroupAdmin.pdb
+C:\Users\А\AppData\Local\Temporary Projects\GroupAdmin\obj\Debug\GroupAdmin.FormAdmin.resources
+C:\Users\А\Desktop\TempApp\GroupAdmin\GroupAdmin\bin\Debug\GroupAdmin.exe.config
+C:\Users\А\Desktop\TempApp\GroupAdmin\GroupAdmin\obj\Debug\GroupAdmin.exe
+C:\Users\А\Desktop\TempApp\GroupAdmin\GroupAdmin\obj\Debug\GroupAdmin.pdb
+C:\Users\А\Desktop\TempApp\GroupAdmin\GroupAdmin\obj\Debug\GroupAdmin.csprojResolveAssemblyReference.cache
+C:\Users\А\Desktop\TempApp\GroupAdmin\GroupAdmin\obj\Debug\GroupAdmin.FormAdmin.resources
+C:\Users\А\Desktop\TempApp\GroupAdmin\GroupAdmin\obj\Debug\GroupAdmin.FormLogin.resources
+C:\Users\А\Desktop\TempApp\GroupAdmin\GroupAdmin\obj\Debug\GroupAdmin.FormMain.resources
+C:\Users\А\Desktop\TempApp\GroupAdmin\GroupAdmin\obj\Debug\GroupAdmin.Properties.Resources.resources
+C:\Users\А\Desktop\TempApp\GroupAdmin\GroupAdmin\obj\Debug\GroupAdmin.csproj.GenerateResource.Cache
+C:\Users\А\Desktop\TempApp\GroupAdmin\GroupAdmin\bin\Debug\GroupAdmin.exe
+C:\Users\А\Desktop\TempApp\GroupAdmin\GroupAdmin\bin\Debug\GroupAdmin.pdb
+C:\Users\А\Desktop\TempApp\GroupAdmin\GroupAdmin\obj\Debug\GroupAdmin.FormCapcha.resources
+C:\Users\А\Desktop\TempApp\GroupAdmin\GroupAdmin\obj\Debug\GroupAdmin.FormProgress.resources
+C:\Users\А\Desktop\TempApp\GroupAdmin\GroupAdmin\obj\Debug\GroupAdmin.FormMsgs.resources
+C:\Users\А\Desktop\TempApp\GroupAdmin\GroupAdmin\obj\Debug\GroupAdmin.Form_Parse.resources
+D:\Projects\TempApp\GroupAdmin\GroupAdmin\bin\Debug\GroupAdmin.exe.config
+D:\Projects\TempApp\GroupAdmin\GroupAdmin\bin\Debug\GroupAdmin.exe
+D:\Projects\TempApp\GroupAdmin\GroupAdmin\bin\Debug\GroupAdmin.pdb
+D:\Projects\TempApp\GroupAdmin\GroupAdmin\obj\Debug\GroupAdmin.FormAdmin.resources
+D:\Projects\TempApp\GroupAdmin\GroupAdmin\obj\Debug\GroupAdmin.FormCapcha.resources
+D:\Projects\TempApp\GroupAdmin\GroupAdmin\obj\Debug\GroupAdmin.FormLogin.resources
+D:\Projects\TempApp\GroupAdmin\GroupAdmin\obj\Debug\GroupAdmin.FormMain.resources
+D:\Projects\TempApp\GroupAdmin\GroupAdmin\obj\Debug\GroupAdmin.FormMsgs.resources
+D:\Projects\TempApp\GroupAdmin\GroupAdmin\obj\Debug\GroupAdmin.FormProgress.resources
+D:\Projects\TempApp\GroupAdmin\GroupAdmin\obj\Debug\GroupAdmin.FormWallPost.resources
+D:\Projects\TempApp\GroupAdmin\GroupAdmin\obj\Debug\GroupAdmin.Form_Parse.resources
+D:\Projects\TempApp\GroupAdmin\GroupAdmin\obj\Debug\GroupAdmin.Properties.Resources.resources
+D:\Projects\TempApp\GroupAdmin\GroupAdmin\obj\Debug\GroupAdmin.csproj.GenerateResource.Cache
+D:\Projects\TempApp\GroupAdmin\GroupAdmin\obj\Debug\GroupAdmin.exe
+D:\Projects\TempApp\GroupAdmin\GroupAdmin\obj\Debug\GroupAdmin.pdb
+D:\Projects\TempApp\GroupAdmin\GroupAdmin\obj\Debug\GroupAdmin.csprojResolveAssemblyReference.cache
+E:\SkyDrive\GroupAdmin\GroupAdmin\bin\Debug\GroupAdmin.exe.config
+E:\SkyDrive\GroupAdmin\GroupAdmin\obj\Debug\GroupAdmin.exe
+E:\SkyDrive\GroupAdmin\GroupAdmin\obj\Debug\GroupAdmin.pdb
+E:\SkyDrive\GroupAdmin\GroupAdmin\bin\Debug\GroupAdmin.exe
+E:\SkyDrive\GroupAdmin\GroupAdmin\bin\Debug\GroupAdmin.pdb
+E:\SkyDrive\GroupAdmin\GroupAdmin\obj\Debug\GroupAdmin.csprojResolveAssemblyReference.cache
+E:\SkyDrive\GroupAdmin\GroupAdmin\obj\Debug\GroupAdmin.FormAdmin.resources
+E:\SkyDrive\GroupAdmin\GroupAdmin\obj\Debug\GroupAdmin.FormCapcha.resources
+E:\SkyDrive\GroupAdmin\GroupAdmin\obj\Debug\GroupAdmin.FormLogin.resources
+E:\SkyDrive\GroupAdmin\GroupAdmin\obj\Debug\GroupAdmin.FormMain.resources
+E:\SkyDrive\GroupAdmin\GroupAdmin\obj\Debug\GroupAdmin.FormMsgs.resources
+E:\SkyDrive\GroupAdmin\GroupAdmin\obj\Debug\GroupAdmin.FormProgress.resources
+E:\SkyDrive\GroupAdmin\GroupAdmin\obj\Debug\GroupAdmin.FormWallPost.resources
+E:\SkyDrive\GroupAdmin\GroupAdmin\obj\Debug\GroupAdmin.Form_Parse.resources
+E:\SkyDrive\GroupAdmin\GroupAdmin\obj\Debug\GroupAdmin.Properties.Resources.resources
+E:\SkyDrive\GroupAdmin\GroupAdmin\obj\Debug\GroupAdmin.csproj.GenerateResource.Cache
