@@ -118,6 +118,7 @@
             this.button1.TabIndex = 8;
             this.button1.Text = "Сообщения";
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.Visible = false;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // button2
@@ -128,6 +129,7 @@
             this.button2.TabIndex = 9;
             this.button2.Text = "Посты на стены";
             this.button2.UseVisualStyleBackColor = true;
+            this.button2.Visible = false;
             this.button2.Click += new System.EventHandler(this.button2_Click_1);
             // 
             // buttonInviteAllFriends
@@ -150,6 +152,7 @@
             this.textBoxGroupMess.Text = "Стартовал новый проект для пользователей SJ4000 и других аналогичных экшн-камер. " +
     "Вступайте, делитесь впечатлениями, кидайте фото, видео, задавайте вопросы\r\nhttps" +
     "://vk.com/sjcam_msk";
+            this.textBoxGroupMess.Visible = false;
             // 
             // button3
             // 
@@ -159,6 +162,7 @@
             this.button3.TabIndex = 12;
             this.button3.Text = "Разослать сообщение сообществу";
             this.button3.UseVisualStyleBackColor = true;
+            this.button3.Visible = false;
             this.button3.Click += new System.EventHandler(this.button3_Click_1);
             // 
             // button4
@@ -169,6 +173,7 @@
             this.button4.TabIndex = 13;
             this.button4.Text = "Разослать сообщение списку друзей";
             this.button4.UseVisualStyleBackColor = true;
+            this.button4.Visible = false;
             this.button4.Click += new System.EventHandler(this.button4_Click);
             // 
             // button5
@@ -179,6 +184,7 @@
             this.button5.TabIndex = 14;
             this.button5.Text = "button5";
             this.button5.UseVisualStyleBackColor = true;
+            this.button5.Visible = false;
             this.button5.Click += new System.EventHandler(this.button5_Click);
             // 
             // pictureBoxAvatar

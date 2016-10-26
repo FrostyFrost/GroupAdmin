@@ -29,7 +29,7 @@ namespace GroupAdmin
           
             XmlDocument result = new XmlDocument() ;
             int ret = 0;
-            result.Load(String.Format("https://api.vkontakte.ru/method/{0}.xml?access_token={1}&{2}", name, this.AccessToken, String.Join("&", from item in qs.AllKeys select item + "=" + qs[item])));
+            result.Load(String.Format("https://api.vk.com/method/{0}.xml?access_token={2}&{1}&v=3.0", name, String.Join("&", from item in qs.AllKeys select item + "=" + qs[item]),  this.AccessToken));
             foreach (XmlNode node in result.SelectNodes("/error/error_code"))
             {
                 // MessageBox.Show(node.InnerText.ToString());
