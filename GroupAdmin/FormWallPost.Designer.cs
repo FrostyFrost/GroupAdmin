@@ -202,7 +202,7 @@
             this.Controls.Add(this.textBoxText);
             this.Controls.Add(this.listBoxGroups);
             this.Name = "FormWallPost";
-            this.Text = "Form1";
+            this.Text = "Wall posting";
             this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.FormWallPost_FormClosed);
             this.Load += new System.EventHandler(this.FormWallPost_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBoxAvatar)).EndInit();
